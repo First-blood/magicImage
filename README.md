@@ -16,3 +16,5 @@ magicImage是一个用来在微信内置浏览器上提供照片拖动, 旋转, 
 
 ### 导出图片,并上传
 * magicImage.exportImg(w, h), 执行该方法会给出一个图片对应的Base64字符串向后台作为提交.
+### 在线预览(用微信扫一扫)
+![](https://raw.githubusercontent.com/First-blood/magicImage/master/ewm.png)
